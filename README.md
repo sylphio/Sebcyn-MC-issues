@@ -1,2 +1,3 @@
 # Sebcyn-MC-issues
-Bug database for the server
+
+Base de bugs de suggestions et de truc à faire pour notre server :)
